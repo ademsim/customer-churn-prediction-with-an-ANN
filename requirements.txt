@@ -1,1 +1,4 @@
-
+streamlit
+numpy
+pandas
+tensorflow-cpu==2.20.0
